@@ -1,3 +1,9 @@
+# Hidden Files
+.*
+
+# Directories
+tlpi-dist/
+
 # Object files
 *.o
 *.ko
