@@ -1,0 +1,2 @@
+The LINUX_REBOOT_MAGIC2's constants are Linus Torvalds' and his children's birth dates in
+hexadecimal.
